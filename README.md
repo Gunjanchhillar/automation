@@ -1,6 +1,5 @@
-# automation
+# Automation
 All automated related scripts
-Here's a README.md for your Falcon deployment script:
 
 # Falcon Kubernetes Deployment Script
 
