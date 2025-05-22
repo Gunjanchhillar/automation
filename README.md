@@ -1,5 +1,5 @@
 # Automation
-All automated related scripts
+All automation related scripts
 
 # Falcon Kubernetes Deployment Script
 
